@@ -42,11 +42,11 @@ Integrate casino games to your bot in 5 minutes. OpenClaw handles deployment, li
 - Match = win 2x (minus 5% house edge)
 - No match = lose bet (goes to pot)
 
-### 🎰 Slots (Coming Q2 2025)
-### 🔴 Roulette (Coming Q2 2025)
-### 🪙 Coin Flip (Coming Q2 2025)
-### 🃏 Blackjack (Coming Q3 2025)
-### 📈 Crash (Coming Q3 2025)
+### 🎰 Slots (Coming Q2 2026)
+### 🔴 Roulette (Coming Q2 2026)
+### 🪙 Coin Flip (Coming Q2 2026)
+### 🃏 Blackjack (Coming Q3 2026)
+### 📈 Crash (Coming Q3 2026)
 
 **All deployed by OpenClaw. Same integration model.**
 
