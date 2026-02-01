@@ -31,7 +31,9 @@ Integrate casino games to your bot in 5 minutes. OpenClaw handles deployment, li
 
 ## Available Games
 
-### 🎲 Dice (Live on Base)
+### 🎲 Dice (Live on Arbitrum - Main)
+Address: 0x1bA8F117A4Dbef6Ca26E726182E8d39C42b72f5b
+verified: https://arbiscan.io/address/0x1ba8f117a4dbef6ca26e726182e8d39c42b72f5b#code
 
 **Contract:** `0x...` (OpenClaw deployed) - coming soon!
 
